@@ -1,0 +1,2 @@
+Implement the <nth> component from the @modules.md file. Take @overview.md and @style-guide.md into consideration and always follow established rules. When done, update the @timeline.md.
+Use MCP to compile and test the project. If you encounter symbols from external libraries that cause compilation errors consider looking them up with MCP to see their shape.
